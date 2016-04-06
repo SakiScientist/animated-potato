@@ -1,2 +1,2 @@
-# animated-potato
+# datasciencecoursera
 Experimenting R
